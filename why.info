@@ -5,31 +5,6 @@ core = 7.x
 ; Core Modules
 dependencies[] = block
 dependencies[] = field_ui
-;dependencies[] = locale
-
-; Contrib Modules
-;dependencies[] = dblog
-;dependencies[] = devel
-;dependencies[] = xautoload
-;dependencies[] = configuration
-;dependencies[] = configuration_ui
-;dependencies[] = cpn
-;dependencies[] = panels_mini
-;dependencies[] = jquery_update
-;dependencies[] = menu_attach_block
-;dependencies[] = bean
-;dependencies[] = bean_admin_ui
-;dependencies[] = colorizer
-;dependencies[] = uuid
-;dependencies[] = panels_mini_ipe
-
-; Custom Modules
-;dependencies[] = why_core
-;dependencies[] = why_menu
-;dependencies[] = why_customization
-;dependencies[] = why_stats
-;dependencies[] = why_panels
-;dependencies[] = sdi_videomgmt
 
 ; Panopoly Foundation
 dependencies[] = panopoly_core
